@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+body {
+	background-color: #F3872F;
+	background-image: url(summer.jpg);
+	background-size: 35%;
+}
+
+#clock {
+	font-family: 'Orbitron', sans-serif;
+	color: #FF598F;
+	font-size: 100px;
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 20px;
+}
+
+p {
+	font-family: 'Quicksand', sans-serif;
+	color: #15B2D3;
+	font-size: 80px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 60px;
+
+}
